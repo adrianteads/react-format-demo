@@ -8,7 +8,7 @@ or
 ```npm i```
 
 ### How to run the demo 
-```yarn; yarn start```
+```yarn start```
 or
 ```npm run start```
 
