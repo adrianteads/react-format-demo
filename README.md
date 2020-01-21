@@ -2,6 +2,8 @@
 
 This project  demonstrates how to implement the Teads Javascript Format in a ReactJS Application by following the instructions on https://support.teads.tv/support/solutions/articles/36000189923-integrating-teads-formats-on-a-spa
 
+Link to see the demo: https://adrianteads.github.io/react-format-demo/
+
 ### Install dependancies
 ```yarn install``` 
 or 
